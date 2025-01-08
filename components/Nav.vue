@@ -1,14 +1,13 @@
 <template>
   <nav class="navbar">
     <div class="navbar-container">
-      <div class="logo">My Dashboard</div>
+      <div class="logo">Username Dashboard</div>
       <div class="navbar-links">
         <a href="/dashboard" class="navbar-item">Home</a>
+        <a href="/CarDisplay" class="navbar-item">Cars</a>
+        <a href="/car-handling" class="navbar-item">Car Handling</a>
         <a href="/profile" class="navbar-item">Profile</a>
         <a href="/settings" class="navbar-item">Settings</a>
-        <a href="/reports" class="navbar-item">Reports</a>
-        <a href="/cars" class="navbar-item">Cars</a>
-        <a href="/car-handling" class="navbar-item">Car Handling</a>
         <a href="/" class="navbar-item">Log Out</a>
       </div>
     </div>
@@ -22,11 +21,20 @@ export default {
 </script>
 
 <style scoped>
+/* .form-container {
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+} */
 /* Main navbar styling */
 .navbar {
-  background-color: #2c3e50; /* Dark background color */
+  /* background-color: rgba(255, 255, 255, 0.8);  */
+  background-color: #000000; 
+  /* Dark background color */
   padding: 15px 30px; /* Padding for spacing */
-  color: white;
 }
 
 .navbar-container {
@@ -38,7 +46,7 @@ export default {
 .logo {
   font-size: 24px;
   font-weight: bold;
-  color: white;
+  color: #d46701;
   text-transform: uppercase;
 }
 
@@ -48,7 +56,7 @@ export default {
 }
 
 .navbar-item {
-  color: white;
+  color: #d46701;
   text-decoration: none;
   font-size: 16px;
   padding: 10px;

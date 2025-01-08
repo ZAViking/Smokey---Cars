@@ -11,9 +11,35 @@
 :root {
   --primary-color: #ffffff;
   --secondary-color: #1c1c1c;
-  --accent-color: #e0a912;
+  --accent-color: #e9c916;
   --text-color: #fff;
 }
+
+/* @font-face {
+  font-family: 'Rocher';
+  src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
+}
+
+body {
+  font-family: 'Rocher';
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+@font-palette-values --Grays {
+  font-family: Rocher;
+  base-palette: 9;
+}
+
+.grays {
+  font-palette: --Grays;
+} */
 
 /* Login Screen */
 .login-container {
