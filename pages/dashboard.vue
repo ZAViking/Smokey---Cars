@@ -1,8 +1,7 @@
-<template>
-  <Nav /> <!-- Include the Nav component -->
+<template><Nav />
   <div class="dashboard-container">
     <div class="dashboard-main">
-      <h1>Welcome to your Dashboard</h1>
+      <h1 class="headers">Welcome to your Dashboard</h1>
 
       <div class="dashboard-widgets">
         <div class="widget">
@@ -31,3 +30,7 @@
     </div>
   </div>
 </template>
+
+<script>
+
+</script>

@@ -1,5 +1,4 @@
-<template>
-    <Nav />
+<template><Nav />
     <br><br>
     <div class="car-handling">
       <h2>Calculate FiveM Car Handling</h2>
@@ -41,8 +40,8 @@
     </div>
   </template>
   
-  <script>
-  export default {
+<script>
+export default {
     data() {
       return {
         cars: [

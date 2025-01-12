@@ -1,8 +1,5 @@
 <script>
-    import CarLogin from '~/components/CarLogin.vue';
-    export default {
-        name: 'CarLogin', // Component name should be defined
-    };
+
 </script>
   
 
