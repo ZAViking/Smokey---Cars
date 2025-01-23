@@ -1,0 +1,20 @@
+<div class="grid grid-cols-1 xl:grid-cols-5 gap-20 px-3 py-3  ">
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+    <div class="w-32 h-24 bg-gray-300 rounded-xl"></div>
+</div>
